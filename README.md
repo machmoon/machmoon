@@ -1,6 +1,6 @@
 ### Hey, I'm Patrick 👋
 
-**Currently:** Studying CS at UCSB!
+**Currently:** Studying CE at UCSB!
 
 **Previously:** SWE Intern @ Lookout — GCP, Firebase, ML, edge-to-cloud pipelines, React, CI/CD
 
